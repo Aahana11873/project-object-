@@ -1,0 +1,26 @@
+body{
+    background-size: cover;
+    background-position: center;
+}
+.heading
+{
+font-size: 23px;
+width: 100%;
+margin: 0px;
+background-color: midnightblue;
+color: magenta;
+}
+.s1_button{
+    background: blue;
+    
+}
+
+#status
+{
+font-size: 18px;
+}
+canvas{
+    float: none;
+    box-shadow: 10px 10px 10px gold;
+    border-radius: 10px;
+}
